@@ -1,4 +1,4 @@
-# 🚀 Advance Python Programming – Internship Task 2
+# 🚀 Advance Python Programming - Programming Task 1
 ### *Innomatics Research Labs – Data Science Internship*  
 
 This repository contains solutions to **three advanced-level Python programming tasks**, emphasizing algorithmic thinking, list manipulation, and logical problem-solving (LeetCode-style challenges).
