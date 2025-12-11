@@ -124,4 +124,4 @@ This successfully completes **Programming Task – 2**.
 
 ---
 
-## ⭐ If you found this repository helpful, feel free to give it a star!
+##  If you found this repository helpful, feel free to give it a ⭐.
